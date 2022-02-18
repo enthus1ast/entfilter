@@ -1,0 +1,8 @@
+! Remove twitter crap
+twitter.com##div[role='dialog']
+twitter.com##[id$='PromoSlot']
+twitter.com##html->body:style(overflow:visible !important;)
+twitter.com##html:style(overflow:visible !important;)
+twitter.com###layers > div
+twitter.com###credential_picker_container
+
